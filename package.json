@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/yashbansal6/confusion.git"
+    "url": "https://github.com/yashbansal6/conFusion.git"
   },
   "author": "Yash Bansal",
   "license": "ISC",
@@ -67,7 +67,7 @@
     "popper.js": "^1.16.1"
   },
   "bugs": {
-    "url": "https://gitlab.com/yashbansal6/confusion/issues"
+    "url": "https://github.com/yashbansal6/conFusion/issues"
   },
-  "homepage": "https://gitlab.com/yashbansal6/confusion#readme"
+  "homepage": "https://github.com/yashbansal6/conFusion#readme"
 }
